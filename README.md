@@ -2,9 +2,11 @@
 
 Hijri / Gregorian Calendar Table
 
+- **IS_WORKING_DAY** results are base on Saudi Arabia's calender, it includes public and religious holidays.
 
 
-| اسم العامود          | النوع  | الوصف                                         | مثال                       |
+
+| Column Name          | Data Type  | Description (AR)                                         | Example                       |
 | -------------------- | ------ | --------------------------------------------- | -------------------------- |
 | DAY_NAME_EN          | String | اليوم بالانجليزية                             | Thursday                   |
 | DAY_NAME_AR          | String | اليوم بالعربية                                | الخميس                     |
