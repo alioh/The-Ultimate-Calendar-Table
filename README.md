@@ -2,7 +2,8 @@
 
 Hijri / Gregorian Calendar Table
 
-- **IS_WORKING_DAY** results are base on Saudi Arabia's calender, it includes public and religious holidays.
+- **IS_WORKING_DAY** results are based on Saudi Arabia's calender, it includes public and religious holidays.
+
 
 
 
