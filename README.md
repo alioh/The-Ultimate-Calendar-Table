@@ -1,4 +1,4 @@
-# The-Ultimate-Calendar-Table
+# The Ultimate Calendar Table
 
 Hijri / Gregorian Calendar Table
 
